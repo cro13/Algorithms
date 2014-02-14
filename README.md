@@ -1,7 +1,7 @@
 <h2>Algorithms and Problems</h2>
 ==========<br><br>
 
-<h3>Small problems and algorithms</h3><br>
+<h3>Small problems and algorithms</h3>
 <h4>Sorting Algorithms</h4>
 
 <ul>
@@ -45,6 +45,65 @@
 </ul>
 
 <h4>Data Structures</h4>
+
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+
+<h3>Programming Techniques</h3>
+
+<h4>Greedy</h4>
+
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+
+<h4>Divide and Conquer</h4>
+
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+
+<h4>Dynamics</h4>
+
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+<h4>Backtracking</h4>
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+<h4>Probabilistic Algorithms</h4>
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+
+<h4>Genetic Algorithm</h4>
+
 <ul>
 <li>  </li>
 <li>  </li>
