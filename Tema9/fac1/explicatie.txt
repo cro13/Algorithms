@@ -1,0 +1,5 @@
+(a) Inserarea unei muchii
+Daca numarul de componente este 1 inserarea unei noi muchii nu afecteaza cu nimic numarul de componente conexe.
+Daca numarul de componente conexe este mai mare decat 1 atunci inserarea unei noi muchii scade numarul de componente conexe cu maxim 1.
+(b) Stergerea unei muchii
+Daca se sterge o muchie atunci numarul de componente conexe poate creste cu maxim 1.

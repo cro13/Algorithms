@@ -1,0 +1,93 @@
+#include<iostream.h>
+#include<conio.h>
+ 
+struct nod{int info;
+               nod *back;};
+ 
+nod *varf;
+ 
+void push(nod* &v,int x)
+{nod *c;
+if(!v)
+    {v=new nod;
+     v->info=x;
+     v->back=0;}
+ else
+     {c=new nod;
+      c->back=v;
+      c->info=x;
+      v=c;}
+}
+ 
+void afisare(nod *v)
+{nod *c;
+ c=v;
+ while(c)
+    {cout<<c->info<<" ";
+     c=c->back;}
+}
+ 
+void pop(nod* &v)
+{nod* c;
+if(!v)
+    cout<<"stiva este vida si nu mai ai ce elimina!!!";
+ else
+    {c=v;
+     v=v->back;
+     delete c;}
+ }
+ 
+int main()
+{int n,a;
+ cout<<"numarul initial de noduri ";
+ cin>>n;
+ for(int i=1;i<=n;i++)
+    {cout<<"valoarea de adaugat in stiva ";
+     cin>>a;
+     push(varf,a);
+     }
+cout<<endl;
+afisare(varf);
+int nre,nra;
+cout<<endl<<"cate adaugari ?";
+cin>>nra;
+for(i=1;i<=nra;i++)
+   {cout<<"valoarea de adaugat ";
+    cin>>a;
+    push(varf,a);}
+cout<<endl<<"dupa adaugare"<<endl;
+n=n+nra;
+cout<<"stiva are  "<<n<<" elemente"<<endl;
+afisare(varf);
+cout<<endl<<"cate eliminari ?";
+cin>>nre;
+for(i=1;i<=nre;i++)
+       pop(varf);
+cout<<endl<<"dupa eliminare"<<endl;
+n=n-nre;
+cout<<"stiva are  "<<n<<" elemente"<<endl;
+afisare(varf);
+//prelucrez varful stivei: de exemplu se poate dubla continutul:
+varf->info=2*varf->info;
+cout<<endl<<"dupa dublarea valorii varfului "<<endl;
+afisare(varf);
+getch();
+ }
+
+int top() //afiseaza elementul din varful stivei fara al scoate
+{
+if(next>0)
+return stack[next-1];
+else
+g<<"Stiva vida";
+}
+int empty () //returneaza 1 daca stiva este vida si 0 altfel
+{
+return !next;
+}
+int full() //returneaza 1 daca stiva este plina si 0 altfel
+{
+return next==MAX;
+}
+return 0;
+}
