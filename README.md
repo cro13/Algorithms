@@ -1,8 +1,8 @@
-<h1>Algorithms and Problems</h1>
+<h2>Algorithms and Problems</h2>
 ==========<br><br>
 
-<h2>Small problems and algorithms</h2><br>
-<h3>Sorting Algorithms</h3><br>
+<h3>Small problems and algorithms</h3><br>
+<h4>Sorting Algorithms</h4><br>
 <ul>
 <li>Bubble Sort</li>
 <li>Insertion Sort</li>
