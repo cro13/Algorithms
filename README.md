@@ -23,10 +23,33 @@
 <li>Roy-Floyd's Algorithm</li>
 <li>MST Kruskal's Algorithm</li>
 <li>MST Prim's Algorithm</li>
-<li>Topological Sort<li>
+<li>Topological Sort</li>
 <li>Huffman Codification</li>
 <li>Connected graph</li>
 <li>Strong connected graph</li>
 <li>Bellman - Ford Algorithm</li>
 <li>Danzig's Algorithm</li>
 </ul>
+
+<h4>Trees(Binary Trees)</h4>
+
+<ul>
+<li>Traversals</li>
+<li>BST - Binary Search Tree</li>
+<li>Indexed BST</li>
+<li>Max - Heap</li>
+<li>Min - Heap</li>
+<li>Selection tree</li>
+<li>Binary expression tree</li>
+<li>Prüfer codification</li>
+</ul>
+
+<h4>Data Structures</h4>
+<ul>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ul>
+
