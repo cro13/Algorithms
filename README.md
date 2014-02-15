@@ -11,21 +11,22 @@
 <li>Merge Sort</li>
 <li>Heap Sort</li>
 <li>Quick Sort</li>
-<li>Shell Sort</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema8/shellsort">Shell Sort</a></li>
 </ul>
 
 <h4>Graphs Algorithms</h4>
 
 <ul>
 <li><a href="https://github.com/emi58/Algorithms/tree/master/BFS/src/bfs">BFS</a></li>
-<li>DFS</li>
-<li>Dijkstra's Algorithm</li>
-<li>Roy-Floyd's Algorithm</li>
-<li>MST Kruskal's Algorithm</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema9/p4">DFS</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/dijkstra">Dijkstra's Algorithm</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/p1_disjktra">Dijkstra's Algorithm with heaps</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Roy-Floyd-Warshall">Roy-Floyd's Algorithm</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/APM_Kruskal">MST Kruskal's Algorithm</a></li>
 <li>MST Prim's Algorithm</li>
-<li>Topological Sort</li>
-<li>Huffman Codification</li>
-<li>Connected graph</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Topological_sort">Topological Sort</a></li>
+<li>>a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Huffman">Huffman Codification</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema9/p3">Connected graph</a></li>
 <li>Strong connected graph</li>
 <li>Bellman - Ford Algorithm</li>
 <li>Danzig's Algorithm</li>
