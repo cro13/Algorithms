@@ -8,9 +8,10 @@
 <li>Bubble Sort</li>
 <li>Insertion Sort</li>
 <li>Selection Sort</li>
-<li>Merge Sort</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema7/p3-Merge">Merge Sort</a></li>
 <li>Heap Sort</li>
 <li>Quick Sort</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema7/p4-rand">Randomized Quick Sort</a></li>
 <li><a href="https://github.com/emi58/Algorithms/tree/master/Tema8/shellsort">Shell Sort</a></li>
 </ul>
 
@@ -25,7 +26,7 @@
 <li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/APM_Kruskal">MST Kruskal's Algorithm</a></li>
 <li>MST Prim's Algorithm</li>
 <li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Topological_sort">Topological Sort</a></li>
-<li>>a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Huffman">Huffman Codification</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema10/Huffman">Huffman Codification</a></li>
 <li><a href="https://github.com/emi58/Algorithms/tree/master/Tema9/p3">Connected graph</a></li>
 <li>Strong connected graph</li>
 <li>Bellman - Ford Algorithm</li>
@@ -35,14 +36,15 @@
 <h4>Trees(Binary Trees)</h4>
 
 <ul>
-<li>Traversals</li>
-<li>BST - Binary Search Tree</li>
-<li>Indexed BST</li>
-<li>Max - Heap</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema6/p1">Traversals</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema6/p2">BST - Binary Search Tree</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema6/p5">Indexed BST</a></li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema7/p8-MAXHEAP">Max - Heap</a></li>
 <li>Min - Heap</li>
 <li>Selection tree</li>
 <li>Binary expression tree</li>
 <li>Prüfer codification</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/Tema7/p2-AVL">AVL Tree</a></li>
 </ul>
 
 <h4>Data Structures</h4>
