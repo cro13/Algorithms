@@ -17,7 +17,7 @@
 <h4>Graphs Algorithms</h4>
 
 <ul>
-<li>BFS</li>
+<li><a href="https://github.com/emi58/Algorithms/tree/master/BFS/src/bfs">BFS</a></li>
 <li>DFS</li>
 <li>Dijkstra's Algorithm</li>
 <li>Roy-Floyd's Algorithm</li>
